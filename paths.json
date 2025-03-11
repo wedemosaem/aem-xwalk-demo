@@ -2,7 +2,7 @@
   "mappings": [
     "/content/aem-xwalk-demo/:/",
     "/content/aem-xwalk-demo/metadata:/metadata.json",
-    "/content/aem-xwalk-demo/redirects.json:/redirects.json",
+    "/content/aem-xwalk-demo/redirects.json:/redirects.json"
   ],
   "includes": [
     "/content/aem-xwalk-demo/"
